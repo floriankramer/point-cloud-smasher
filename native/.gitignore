@@ -1,0 +1,4 @@
+/build/
+/godot-cpp/
+/.sconsign.dblite
+/extern
